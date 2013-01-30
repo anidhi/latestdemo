@@ -1,1 +1,1 @@
-this is i m doing to get controll on git for further implementing this for svn projects
+ git for further implementing this for svn projects
